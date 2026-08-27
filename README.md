@@ -34,7 +34,7 @@ Git
 
 Clone & Setup
 bash
-git clone https://github.com/akmishra-001/Salary-Prediction-Deployed-Project-March-2026.git
+git clone https:https://github.com/niteshkumar455161
 cd Salary-Prediction-Deployed-Project-March-2026
 Install Dependencies
 bash
