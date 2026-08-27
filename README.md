@@ -16,7 +16,7 @@ Dataset: 689 employee records with 15+ features
 📊 Live Demo
 
 🔗 Deployed App: [Render Cloud/Share](https://salary-predictor-ml-web-app.onrender.com/)
-🌐 GitHub Repo: [akmishra-001/Salary-Prediction](https://github.com/akmishra-001/Salary-Prediction-Deployed-Project-March-2026.git)
+
 
 🛠 Tech Stack
 
