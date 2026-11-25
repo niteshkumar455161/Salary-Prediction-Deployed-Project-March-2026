@@ -131,4 +131,4 @@ Open Pull Request
 MIT License - Free to use, modify, deploy! 🚀
 
 👨‍💻 Author
-Abhishek Mishra
+Nitesh Kumar Yadav 
